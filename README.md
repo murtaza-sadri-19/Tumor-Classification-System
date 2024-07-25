@@ -19,7 +19,7 @@ The trained logistic regression model is saved in the `Breast_cancer_model.pkl` 
 ## Code
 ------
 
-The code for training and testing the model can be found in the `Breast_cancer_Prediction.ipynb` files:
+The code for training and testing the model can be found in the `Breast_cancer_Prediction.ipynb` file.
 
 ## Requirements
 --------------
