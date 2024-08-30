@@ -1,4 +1,4 @@
-## Breast Cancer Classification Model
+# **Breast Cancer Classification Model**
 
 ### Overview
 This repository contains a breast cancer classification model implemented in Python using scikit-learn.The model is trained on the [Breast Cancer Wisconsin (Diagnostic) dataset] (https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) and predicts whether a tumor is malignant or benign.
@@ -47,7 +47,7 @@ The continuous features are:
 To use the model, simply run the breast_cancer_model.py script and provide the input data as a tuple of 30 values, representing the 30 continuous features of the dataset. The model will predict whether the tumor is malignant or benign.
 
 ### Model Performance
-The model's performance is evaluated using accuracy and F1-score metrics. The accuracy of the model is 0.965, and the F1-score is 0.963.
+The model's performance is evaluated using __*accuracy*__ and __*F1-score*__ metrics. The accuracy of the model is 0.956, and the F1-score is 0.939.
 
 ### Model Deployment
 The model is deployed using the pickle library, which allows us to save the trained model to a file and load it later for prediction.
